@@ -13,10 +13,7 @@ Configure the root of your repository with the following files and directories. 
 
 * **README.md** - contains documentation
 * **.gitignore** - contains a [robust](http://gitignore.io) `.gitignore` file 
-* **.eslintrc** - contains the course linter configuratoin
-* **.eslintignore** - contains the course linter ignore configuration
 * **package.json** - contains npm package config
-  * create a `lint` script for running eslint
   * create a `start` script for running your server
 * **lib/** - contains module definitions
 
